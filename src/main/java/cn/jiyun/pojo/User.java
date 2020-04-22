@@ -7,6 +7,7 @@ public class User {
     private String name;
 
     private String sex;
+    private Integer id;
 
     public String getSex() {
         return sex;
